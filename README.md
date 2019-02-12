@@ -1,8 +1,8 @@
 # Click-Counter
 Simple Click Counter for iOS written programmatically
 
-Created using:
-Swift Version 4.2
+Created using:<br/>
+Swift Version 4.2 <br/>
 XCode Version 10.1
 
 This simple app creates a simple counter with a plus and minus button to increment or decrement from 0.  Every even number will result in the background and counter text color to change.  
